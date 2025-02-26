@@ -78,8 +78,8 @@ section {
     padding-top: 5rem;
     margin-top: 3rem;
     margin-bottom: 3rem;
-    background: url('img/flor.png') top right no-repeat,
-        url('img/flor-esquerda.png') bottom left no-repeat;
+    background: url('img/download.jpeg') top right no-repeat,
+        url('img/panpa.jpeg') bottom left no-repeat;
     background-size: 180px 180px;
     /* Ajuste o tamanho conforme necessário */
 }
@@ -102,12 +102,12 @@ h2 {
 }
 
 #galeria {
-    background-color: #FAF4F4;
+    background-color: #ffffff;
 
 }
 
 .fundo-galeria {
-    background: url('img/flor-bottom-direita.png') bottom right no-repeat;
+    background: url('img/png-transparent-ram-trucks-dodge-car-ram-pickup-pickup-truck-fiat-text-heart-truck\ \(1\).png') bottom right no-repeat;
     background-size: 180px 180px;
 }
 
