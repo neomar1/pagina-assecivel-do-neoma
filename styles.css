@@ -105,6 +105,10 @@ h2 {
     background-color: #ffffff;
 
 }
+.menu.acessibilidade{
+    position: fixed;
+    top
+}
 
 .fundo-galeria {
     background: url('img/png-transparent-ram-trucks-dodge-car-ram-pickup-pickup-truck-fiat-text-heart-truck\ \(1\).png') bottom right no-repeat;
@@ -112,7 +116,7 @@ h2 {
 }
 
 #contato {
-    background-image: url('img/4965007.jpg');
+    background-image: url(img/3d1c30d55d92e82288c952a3ad890e3a.jpg);
     background-size: cover;
     padding: 4rem 0;
     /* Espaçamento interno para a seção de contato */
@@ -140,3 +144,31 @@ h2 {
 .form-control {
     background-color: #F1EDEF;
 }
+ .menu.acessibilidade{
+
+position: fixed;
+top: 2rem;
+right: 20px;
+z-index: 1000;
+ }
+ .rotacao-botao{
+transform: rotate(-90deg);
+transform-origin: right center;
+
+
+
+ }
+
+ .opcoes-acessibilidae{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    
+
+ }
+.opcoes-acessibilidae-button{
+    margin-bottom: 5px; ;
+}
+ .apresenta-lista{
+    display: none;
+ }
